@@ -1,3 +1,3 @@
-module square
+module cache
 
 go 1.18
